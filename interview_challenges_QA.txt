@@ -1,0 +1,215 @@
+Interview Questions and Sample Answers – Challenges and Experience (Plain Text)
+
+Question 1: What challenges did you face in your previous company?
+Answer:
+One big challenge I faced was working with a large, existing Python codebase with very little documentation.
+When I joined, I was asked to improve the performance of a slow Flask API endpoint.
+At first, I felt lost because there were many functions and database queries in one request.
+I handled it by reading the code step by step, adding logs and simple timing to measure which part was slow.
+I found that the same database query was called many times in a loop, so I changed it to load the data once using a better SQLAlchemy query.
+After that, the endpoint became faster and we had fewer timeout complaints from users.
+This challenge taught me how to approach complex legacy code: move slowly, add logs, and confirm changes with teammates.
+
+Question 2: Tell me about a difficult bug you fixed.
+Answer:
+In one project, we had a bug where some users were seeing outdated numbers on a dashboard.
+I tried to reproduce the issue locally and in a test environment and added extra logging around the API and caching layer.
+I discovered that different users were sharing the same cache key, so the data from one user was shown to another user.
+I fixed it by including the user ID and date range in the cache key and added a test to cover this case.
+After the fix, the numbers were correct and the bug did not come back.
+
+Question 3: Describe a time you had a tight deadline.
+Answer:
+We had a small feature that a client needed before the end of the week.
+The change affected both the backend API and the template that rendered the data.
+To handle the deadline, I broke the work into small tasks, focused on the critical backend change first, and discussed the plan with my teammate.
+I implemented the API, wrote basic tests, and then quickly updated the template.
+We communicated daily with the project manager and delivered the feature on time without major issues.
+
+Question 4: Tell me about a time you worked with unclear requirements.
+Answer:
+I was once asked to "improve the reporting page" of a web application, but the request was very vague.
+Instead of guessing, I scheduled a short call with the product owner and asked simple questions: who uses the report, which metrics are important, and what they do not like now.
+After the call, I wrote a short summary of the requirements and sent it back to confirm.
+Once we agreed on that summary, it was easy to implement the correct changes.
+This experience showed me that asking questions early saves time and prevents rework.
+
+Question 5: Tell me about a time you worked on a large legacy codebase.
+Answer:
+I joined a project where the Python codebase was several years old, with many modules, models and views.
+At first, it was hard to understand how everything was connected.
+I started by focusing on one feature at a time and followed the flow from the URL route, to the view or API, to the models and database.
+I drew small diagrams for myself and documented what I learned.
+Over time, I became comfortable with the structure and was able to make changes without breaking other parts.
+
+Question 6: Describe a time you disagreed with a colleague and how you handled it.
+Answer:
+We once had a disagreement about how to design a new API endpoint.
+My colleague wanted a very flexible endpoint with many optional parameters, while I preferred a simpler and more explicit design.
+Instead of arguing, we each wrote down our approach with pros and cons and then reviewed both options with our tech lead.
+We ended up combining the ideas: we kept the core API simple but allowed a few optional parameters for flexibility.
+The key was to stay respectful and focus on the technical problem, not on who was right.
+
+Question 7: Tell me about a time you helped a teammate.
+Answer:
+A junior teammate was struggling with a failing Python unit test and did not understand how mocking worked.
+I sat with them and walked through the code and test line by line.
+We discussed what the function was supposed to do and what the mock should return.
+Together we rewrote the test in a simpler way, and it passed.
+Later, I shared a small internal note with a few testing examples, which helped others too.
+
+Question 8: Have you worked with non-technical people? How did you handle it?
+Answer:
+Yes, I have worked with product managers and customer support staff who were not technical.
+They needed to understand roughly what was happening with certain bugs or delays.
+I learned to avoid deep technical terms and explain things in simple language, like: "The page is slow because we ask the database for too much data at once.
+We are changing it to request less data and use caching."
+This approach made them feel comfortable and built trust.
+
+Question 9: Tell me about a time you had to learn a new technology quickly.
+Answer:
+In one project, we decided to add Redis as a cache layer, but I had never used Redis before.
+I started by reading the official documentation and a short beginner tutorial.
+Then I wrote a small Python script on my own to try basic commands like set, get and expiry.
+After that, I applied this knowledge to the main Flask app with the help of an existing library.
+Within a few days, I was able to use Redis confidently in the project.
+
+Question 10: Describe a mistake you made and what you learned from it.
+Answer:
+Once, I deployed a small change without enough testing because I thought it was very safe.
+Later we discovered that it broke a less common use case for some users.
+I fixed the issue quickly, but I realized that even small changes can have side effects.
+Since then, I always try to write at least a basic test and consider edge cases before deploying.
+This experience made me more careful and disciplined.
+
+Question 11: Tell me about a time you improved performance in a system.
+Answer:
+On one API endpoint, the response time was slow when returning a list of records.
+I profiled the code and found that we were running a separate query inside a loop to fetch related data.
+I changed the code to use a join and eager loading in SQLAlchemy so the data was fetched in fewer queries.
+This reduced the response time and lowered the database load.
+
+Question 12: Tell me about a time you improved code quality.
+Answer:
+I worked on a module that had one very long function doing many different things: validation, database updates, and sending emails.
+It was hard to understand and test.
+I refactored the code by extracting smaller helper functions with clear names for each step.
+I also added unit tests for the key pieces of logic.
+After that, the code was easier to read and future changes became safer.
+
+Question 13: Give an example of when you took ownership of a task.
+Answer:
+We had a recurring minor bug that users reported several times, but it was always pushed to the bottom of the backlog.
+I decided to take ownership of it.
+I reproduced the issue, traced it to a specific validation rule, created a fix, wrote a test, and opened a pull request.
+I also updated the internal documentation to explain the behavior.
+By taking ownership, I helped close a long-standing issue and reduced support tickets.
+
+Question 14: How do you handle code review feedback?
+Answer:
+When I receive code review comments, I first read all of them calmly and try to understand the reasoning behind each suggestion.
+If something is not clear, I ask a polite follow-up question.
+I then update my code accordingly and sometimes leave a short note explaining what I changed.
+I see code review as a way to improve both my code and my skills, not as criticism.
+
+Question 15: What are your strengths as a developer?
+Answer:
+One of my strengths is that I am careful and patient with code.
+I like to understand the problem clearly before I start coding and I pay attention to details.
+I am comfortable reading and debugging existing code, which is important in real projects.
+I also communicate clearly with my team and keep people updated on my progress.
+
+Question 16: What is one weakness you are working on?
+Answer:
+I used to be shy about asking questions in larger meetings, especially when many senior people were there.
+Sometimes I stayed silent even when I was not 100 percent sure about the requirement.
+I realized this could cause confusion later, so I started preparing my questions in advance and pushing myself to ask at least one question in important meetings.
+This habit has helped me become more confident and has improved my understanding of tasks.
+
+Question 17: Tell me about a challenge you faced when working with a database.
+Answer:
+In one project, some queries became slow as the data grew.
+I checked the database and saw that certain columns used in filters did not have proper indexes.
+I worked with a senior developer to design the right indexes and updated the queries to use them efficiently.
+After that, the queries ran much faster and the pages loaded more quickly.
+
+Question 18: How do you handle pressure when many tasks are assigned to you?
+Answer:
+When I feel pressure from many tasks, I first list everything and talk to my manager to clarify the priorities.
+Then I break the top tasks into smaller steps and focus on finishing them one by one.
+I also give regular updates so everyone knows what I am working on.
+This way, I stay organized and reduce stress, even when the workload is high.
+
+
+Question 19: Tell me about a time you had to quickly understand a new codebase.
+Answer:
+When I joined a project that was already in production, I had to understand the codebase quickly to fix issues.
+I started by setting up the project locally and running the existing tests to see what was passing and failing.
+Then I followed one user flow from the URL route to the controller or view, then to the model and database.
+This step-by-step approach helped me build a mental map of the application.
+Within a short time, I was able to make safe changes and contribute small fixes.
+
+Question 20: Describe a situation where you had to balance quality and speed.
+Answer:
+Sometimes, we had small features that needed to go live very quickly.
+In these cases, I focused on building the minimal version that satisfied the main requirement and made sure it worked correctly.
+At the same time, I wrote at least basic tests for the core logic and left clear comments or TODOs for future improvements.
+This way, we could move fast without completely ignoring quality.
+
+Question 21: Tell me about a time you improved error handling.
+Answer:
+In one API, some errors were only logged as plain text and the users saw a generic error message.
+This made debugging hard and frustrated users.
+I improved the error handling by adding structured logging with more context, like the user ID and request parameters.
+I also added more specific error messages for expected problems, such as validation errors.
+As a result, it became easier to find the root cause of issues and users received clearer feedback.
+
+Question 22: Describe a time when communication helped you solve a technical problem.
+Answer:
+There was a bug that only happened in production and I could not reproduce it locally.
+Instead of guessing, I talked to the support team and asked them for exact steps, screenshots, and times when the error happened.
+With this information, I checked the logs and narrowed the issue down to a specific edge case.
+Good communication with the support team helped me reproduce and fix the bug much faster.
+
+Question 23: Tell me about a time you had to refactor code for maintainability.
+Answer:
+I worked on a feature where adding new conditions required touching many places in the code.
+This made it easy to introduce bugs.
+I refactored the logic into a single function that handled all conditions based on configuration.
+Now, when we needed to add a new case, we only edited one place.
+This refactor reduced duplication and made the codebase easier to maintain.
+
+Question 24: Describe a challenging task you did with testing.
+Answer:
+We had a function that depended on the current time and an external API, which made it hard to test.
+I changed the code slightly so that the time and the API client could be passed in as parameters.
+Then I wrote tests where I used fixed times and a fake API client.
+This made the tests predictable and gave us confidence that the logic worked across different scenarios.
+
+Question 25: Tell me about a situation when requirements changed in the middle of development.
+Answer:
+I was halfway through implementing a feature when the product owner told us that the business rules had changed.
+Instead of trying to force the old design to fit, I paused and discussed the new requirements with the team.
+We adjusted the design, removed some code that was no longer needed, and focused on what would bring the most value.
+This experience taught me to accept change and to keep the code flexible.
+
+Question 26: How do you handle tasks you have never done before?
+Answer:
+When I get a task that is new to me, I break it down into smaller steps and start with research.
+I read documentation, look at similar code in the project, and sometimes build a tiny prototype to test the idea.
+If I am still unsure, I ask a more experienced teammate for a short discussion.
+By combining self-learning with asking for help when needed, I can handle new tasks with less stress.
+
+Question 27: Tell me about a time you identified a problem before it became serious.
+Answer:
+While reviewing logs, I noticed a small but repeated warning related to a deprecated function call.
+The feature was still working, but I knew this could break in a future update.
+I raised the issue with the team, updated the code to the supported method, and added a test for that path.
+Because we fixed it early, we avoided a bigger production incident later.
+
+Question 28: Describe a time you had to coordinate with multiple people to complete a task.
+Answer:
+For one feature, we needed input from the product owner, the designer, and another backend team.
+I set up a short meeting where we clarified what each person needed and agreed on the API contract and the UI behavior.
+After that, I shared a simple document summarizing the decisions.
+This coordination helped everyone stay aligned and reduced misunderstandings during implementation.
