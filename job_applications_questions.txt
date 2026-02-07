@@ -1,0 +1,630 @@
+================================================================================
+                    COMMON JOB APPLICATION QUESTIONS
+================================================================================
+
+## 1. WORK AUTHORIZATION & VISA STATUS
+--------------------------------------------------------------------------------
+- Are you currently authorized to work in the United States without employer sponsorship?
+- Will you now or in the future require visa sponsorship or a visa transfer?
+- Are you legally authorized to work in the country where this job is located?
+- Are you currently eligible to work in the US?
+- Have you previously worked in this country on a valid work visa?
+- What is your current visa status? (H1B, Green Card, Citizen, etc.)
+- When does your current work authorization expire?
+- Do you require H1B transfer or new sponsorship?
+
+## 2. LOCATION & RELOCATION
+--------------------------------------------------------------------------------
+- Are you able to work onsite at the job location?
+- Are you willing to work onsite, hybrid, or remotely as required?
+- Are you open to relocation for this role?
+- Are you comfortable working across different time zones?
+- Are you able to work onsite in [City, State]?
+- What is your current location/city?
+- Are you willing to relocate within the next 30 days?
+- Do you need relocation assistance?
+
+## 3. PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+- What is your full legal name?
+- What is your email address?
+- What is your phone number?
+- What is your current address?
+- What is your city, state, and postal/ZIP code?
+- Are you currently 18 years of age or older?
+- Are you legally able to work in this country?
+
+## 4. PROFESSIONAL PROFILES & DOCUMENTS
+--------------------------------------------------------------------------------
+- What is your LinkedIn profile URL?
+- Please upload your resume or CV.
+- Please upload your cover letter.
+- Do you have a portfolio, GitHub, or personal website?
+- Please provide your GitHub/GitLab profile URL.
+- Please provide your portfolio website URL.
+
+## 5. APPLICATION HISTORY
+--------------------------------------------------------------------------------
+- Have you previously applied to our company?
+- Have you ever worked for this company before?
+- Are you a current employee of this company or its subsidiaries?
+- If you are a current employee, please apply through internal careers.
+- Were you referred by an employee? If yes, provide their name.
+- How did you hear about this job?
+
+## 6. EXPERIENCE & QUALIFICATIONS
+--------------------------------------------------------------------------------
+- How many years of relevant experience do you have?
+- How many years of total professional experience do you have?
+- What is your current job title?
+- What is your highest level of education?
+- What is your degree/major?
+- What university/college did you attend?
+- What year did you graduate?
+- Do you have any certifications relevant to this role?
+
+## 7. TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+- What is your primary skill set?
+- What tools, technologies, or frameworks are you proficient in?
+- Do you have experience with cloud platforms (AWS, Azure, GCP)?
+- Do you have experience with databases (SQL, NoSQL)?
+- Do you have experience with APIs or microservices?
+- Do you have experience with automation, testing, or CI/CD pipelines?
+- What programming languages are you proficient in?
+- Rate your proficiency in [specific technology] (1-5 or Beginner/Intermediate/Expert).
+
+## 8. WORK EXPERIENCE & METHODOLOGY
+--------------------------------------------------------------------------------
+- Have you worked in an Agile or Scrum environment?
+- Have you led or mentored team members?
+- Do you have experience working with cross-functional teams?
+- Do you have management or leadership experience?
+- How many people have you managed?
+- Describe your experience with remote collaboration tools.
+
+## 9. CURRENT EMPLOYMENT STATUS
+--------------------------------------------------------------------------------
+- What is your current employer's name?
+- What is your current employment status? (Employed, Unemployed, Student, etc.)
+- Are you currently employed or on a notice period?
+- What is your notice period? (Immediate, 2 weeks, 30 days, 60 days, 90 days)
+- What was your reason for leaving your last role?
+- How long have you been in your current role?
+- May we contact your current employer?
+
+## 10. WORK PREFERENCES
+--------------------------------------------------------------------------------
+- What type of employment are you looking for? (Full-time, Part-time, Contract, Internship)
+- Are you willing to work full-time, part-time, or on a contract basis?
+- Are you willing to work flexible hours or shifts?
+- Are you willing to work overtime if required?
+- Are you willing to travel for work if required? (0%, 25%, 50%, 75%, 100%)
+- Are you comfortable with remote collaboration tools?
+- What is your preferred work arrangement? (Remote, Hybrid, Onsite)
+
+## 11. COMPENSATION & SALARY
+--------------------------------------------------------------------------------
+- What is your expected salary or compensation range?
+- What is your current CTC (Cost to Company) or hourly rate?
+- What is your salary expectation (USD)? (Do not include dollar sign or comma)
+- What was your last drawn salary?
+- Are you open to salary negotiation?
+- Do you have any competing job offers?
+- What is your minimum acceptable salary?
+
+## 12. AVAILABILITY & START DATE
+--------------------------------------------------------------------------------
+- When is the earliest you can join?
+- What is your expected start date?
+- Are you available to start immediately?
+- Are there any planned leaves in the next three months?
+- Can you start within the next 2 weeks?
+- Are you available for an interview this week?
+
+## 13. BACKGROUND & COMPLIANCE
+--------------------------------------------------------------------------------
+- Will you be able to pass a background verification check?
+- Are you willing to undergo drug screening if required?
+- Do you have any criminal history that may affect employment eligibility?
+- Have you ever been convicted of a felony?
+- Do you have any non-compete or contractual obligations?
+- Are you willing to sign an NDA (Non-Disclosure Agreement)?
+- Do you have a valid driver's license?
+- Do you have reliable transportation?
+
+## 14. EQUAL OPPORTUNITY (VOLUNTARY/OPTIONAL)
+--------------------------------------------------------------------------------
+- What is your gender? (Male, Female, Non-binary, Prefer not to say)
+- Are you Hispanic or Latino?
+- What is your race or ethnicity?
+- What is your veteran status? (Not a veteran, Veteran, Protected Veteran)
+- Do you have a disability or have you ever had a disability?
+- How did you hear about us? (LinkedIn, Indeed, Referral, Company Website, etc.)
+
+## 15. BEHAVIORAL & CULTURAL FIT
+--------------------------------------------------------------------------------
+- Why are you interested in this role?
+- Why do you want to work for our company?
+- What motivates you at work?
+- What are your strengths?
+
+## 16. SECURITY CLEARANCE
+--------------------------------------------------------------------------------
+- Do you have an active security clearance?
+- What level of security clearance do you hold? (Confidential, Secret, Top Secret, TS/SCI)
+- Are you willing to obtain a security clearance if required?
+- Can you pass a government background investigation?
+
+## 17. ADDITIONAL QUESTIONS (ROLE-SPECIFIC)
+--------------------------------------------------------------------------------
+- Are you willing to work night shifts or weekends?
+- Do you have experience in [specific industry]?
+- Are you comfortable working in a fast-paced environment?
+- Do you have experience with customer-facing roles?
+- Are you comfortable with public speaking or presentations?
+- Do you have project management experience?
+- Are you PMP, Scrum Master, or Agile certified?
+- Do you have experience with data analysis or visualization tools?
+- Are you comfortable working independently with minimal supervision?
+- Do you have experience in startup environments?
+
+## 18. REFERENCES
+--------------------------------------------------------------------------------
+- Please provide 2-3 professional references.
+- Reference 1: Name, Title, Company, Email, Phone, Relationship
+- Reference 2: Name, Title, Company, Email, Phone, Relationship
+- Reference 3: Name, Title, Company, Email, Phone, Relationship
+- May we contact your references before making an offer?
+
+## 19. LEGAL AGREEMENTS
+--------------------------------------------------------------------------------
+- Do you agree to the terms and conditions of employment?
+- Do you certify that the information provided is accurate and complete?
+- Do you authorize the company to verify your employment history?
+- Do you authorize the company to conduct a background check?
+- Do you agree to the company's privacy policy?
+
+================================================================================
+                         COMMON ANSWER TEMPLATES
+================================================================================
+
+For YES/NO Questions:
+- Work Authorization: Yes (if authorized) / No (if not)
+- Visa Sponsorship Required: No (if citizen/green card) / Yes (if visa holder)
+- Relocation: Yes, open to relocation / No, not open to relocation
+- Background Check: Yes, I can pass a background check
+- Drug Screening: Yes, willing to undergo drug screening
+- 18+ Years Old: Yes
+- Current Employee: No
+
+For Experience Questions:
+- Years of Experience: [Number] years
+- Notice Period: Immediate / 2 weeks / 30 days / 60 days / 90 days
+- Employment Type: Full-time / Part-time / Contract / Internship
+
+For Salary Questions:
+- Format: 85000 (no dollar sign, no comma)
+- Range: 80000-100000
+
+For Work Arrangement:
+- Remote / Hybrid / Onsite / Flexible
+
+## 20. EDUCATION DETAILS
+--------------------------------------------------------------------------------
+- What is your highest level of education completed?
+- What is your degree type? (Bachelor's, Master's, PhD, Associate, High School)
+- What is your field of study/major?
+- What is the name of your university/college/institution?
+- What year did you graduate?
+- What was your GPA or percentage?
+- Did you graduate with honors?
+- Are you currently pursuing any degree or certification?
+- Do you have any additional degrees or diplomas?
+
+## 21. LANGUAGE PROFICIENCY
+--------------------------------------------------------------------------------
+- What languages do you speak?
+- What is your proficiency level in English? (Native, Fluent, Intermediate, Basic)
+- Are you bilingual or multilingual?
+- Can you read and write in [specific language]?
+- Have you taken any language proficiency tests? (TOEFL, IELTS, etc.)
+
+## 22. CERTIFICATIONS & LICENSES
+--------------------------------------------------------------------------------
+- Do you have any professional certifications?
+- Please list your certifications with expiry dates.
+- Do you have a valid professional license for this role?
+- Are you AWS/Azure/GCP certified?
+- Do you have PMP/Scrum Master/Agile certification?
+- Do you have any industry-specific certifications?
+- Are you willing to obtain required certifications?
+
+## 23. MILITARY & VETERAN STATUS
+--------------------------------------------------------------------------------
+- Have you served in the military?
+- What branch of military did you serve in?
+- What was your rank at discharge?
+- What type of discharge did you receive?
+- Are you a protected veteran?
+- Do you have any military skills transferable to this role?
+
+## 24. HEALTH & PHYSICAL REQUIREMENTS
+--------------------------------------------------------------------------------
+- Are you able to lift [X] pounds as required by this job?
+- Can you stand for extended periods?
+- Can you sit for extended periods?
+- Do you have any physical limitations that may affect job performance?
+- Are you able to perform the essential functions of this job with or without accommodation?
+- Do you require any workplace accommodations?
+
+## 25. DRIVING & TRANSPORTATION
+--------------------------------------------------------------------------------
+- Do you have a valid driver's license?
+- What class of driver's license do you hold?
+- Do you have a clean driving record?
+- How many traffic violations have you had in the past 3 years?
+- Do you have reliable transportation to work?
+- Are you willing to use your personal vehicle for work purposes?
+- Do you have valid auto insurance?
+
+## 26. SHIFT & SCHEDULE PREFERENCES
+--------------------------------------------------------------------------------
+- What shift are you available to work? (Day, Evening, Night, Rotating)
+- Are you available to work weekends?
+- Are you available to work holidays?
+- What days of the week are you available?
+- What hours are you available to work?
+- Are you available for on-call duties?
+- Can you work split shifts?
+- Are you available for overtime on short notice?
+
+## 27. CONFLICT OF INTEREST
+--------------------------------------------------------------------------------
+- Do you have any relatives working at this company?
+- If yes, please provide their name and relationship.
+- Do you have any business interests that may conflict with this role?
+- Are you currently working for a competitor?
+- Do you have any pending legal matters related to previous employment?
+- Are you subject to any non-compete agreements?
+- Are you subject to any non-solicitation agreements?
+
+## 28. SOCIAL MEDIA & ONLINE PRESENCE
+--------------------------------------------------------------------------------
+- What is your LinkedIn profile URL?
+- What is your GitHub/GitLab profile URL?
+- What is your portfolio website URL?
+- What is your personal blog or website?
+- What is your Twitter/X handle?
+- What is your Behance/Dribbble profile? (for designers)
+- What is your Stack Overflow profile?
+- Do you have any published articles or papers?
+
+## 29. PROJECT & ACHIEVEMENT DETAILS
+--------------------------------------------------------------------------------
+- Describe your most significant project.
+- What was your role in this project?
+- What technologies did you use?
+- What was the outcome or impact?
+- How large was the team you worked with?
+- What challenges did you face and how did you overcome them?
+- Can you provide metrics or results from your projects?
+- Do you have any awards or recognitions?
+
+## 30. TECHNICAL ASSESSMENT QUESTIONS
+--------------------------------------------------------------------------------
+- Rate your proficiency in [Technology] (1-10 or Beginner/Intermediate/Expert)
+- How many years of experience do you have with [Technology]?
+- Have you worked with [specific framework/tool]?
+- Describe your experience with version control (Git).
+- Describe your experience with containerization (Docker/Kubernetes).
+- Describe your experience with cloud services.
+- What IDEs or development tools do you use?
+- Are you familiar with [specific methodology]?
+
+
+## 31. LEADERSHIP & MANAGEMENT
+--------------------------------------------------------------------------------
+- Have you managed a team before?
+- How many people have you managed?
+- Describe your management style.
+- Have you hired or interviewed candidates?
+- Have you conducted performance reviews?
+- Have you managed budgets or resources?
+- Have you led cross-functional teams?
+- Describe a time you resolved a team conflict.
+- Have you mentored junior team members?
+- Have you managed remote or distributed teams?
+
+## 32. CUSTOMER & CLIENT FACING
+--------------------------------------------------------------------------------
+- Do you have customer service experience?
+- Have you worked directly with clients?
+- Are you comfortable with client presentations?
+- Have you handled customer complaints?
+- Do you have experience with B2B or B2C?
+- Have you managed client relationships?
+- Are you comfortable with sales or business development?
+
+## 33. INDUSTRY-SPECIFIC QUESTIONS
+--------------------------------------------------------------------------------
+- Do you have experience in [specific industry]?
+- Are you familiar with [industry regulations]?
+- Do you have knowledge of [industry standards]?
+- Have you worked with [industry-specific tools]?
+- Are you familiar with compliance requirements (HIPAA, GDPR, SOX, PCI-DSS)?
+- Do you have experience with government contracts?
+- Have you worked in a regulated industry?
+
+## 34. STARTUP & COMPANY CULTURE
+--------------------------------------------------------------------------------
+- Have you worked in a startup environment?
+- Are you comfortable with ambiguity and changing priorities?
+- Can you work with limited resources?
+- Are you comfortable wearing multiple hats?
+- How do you handle rapid growth and change?
+- What type of company culture do you thrive in?
+- Do you prefer structure or flexibility?
+- Are you comfortable with flat organizational structures?
+
+## 35. REMOTE WORK SPECIFIC
+--------------------------------------------------------------------------------
+- Do you have experience working remotely?
+- Do you have a dedicated home office space?
+- Do you have reliable high-speed internet?
+- What time zone are you located in?
+- Are you comfortable with async communication?
+- What remote collaboration tools have you used? (Slack, Zoom, Teams, etc.)
+- How do you stay productive while working remotely?
+- Are you comfortable with video calls?
+
+## 36. INTERNSHIP & ENTRY-LEVEL SPECIFIC
+--------------------------------------------------------------------------------
+- Are you currently enrolled in school?
+- What is your expected graduation date?
+- Are you available for a full-time internship?
+- What is your GPA?
+- Have you completed any relevant coursework?
+- Have you completed any personal or academic projects?
+- What extracurricular activities are you involved in?
+- Are you eligible for work-study programs?
+
+## 37. CONTRACT & FREELANCE SPECIFIC
+--------------------------------------------------------------------------------
+- What is your hourly rate?
+- What is your daily rate?
+- Are you available for corp-to-corp (C2C) arrangement?
+- Do you have your own company/LLC?
+- Are you open to W2 or 1099?
+- What is your availability for this contract?
+- Can you commit to the full duration of the contract?
+- Have you worked on similar contract engagements?
+
+## 38. EXECUTIVE & SENIOR LEVEL
+--------------------------------------------------------------------------------
+- What is your leadership philosophy?
+- Describe your experience with strategic planning.
+- Have you managed P&L responsibilities?
+- What is the largest team you have managed?
+- What is the largest budget you have managed?
+- Describe your experience with board presentations.
+- Have you led organizational transformations?
+- What is your approach to stakeholder management?
+
+## 39. DIVERSITY & INCLUSION (VOLUNTARY)
+--------------------------------------------------------------------------------
+- Do you identify as a member of an underrepresented group?
+- Are you a first-generation college graduate?
+- Do you identify as LGBTQ+?
+- Are you a person with a disability?
+- Are you a veteran or military spouse?
+- Do you belong to any diversity-focused professional organizations?
+
+## 40. COVID & HEALTH PROTOCOLS
+--------------------------------------------------------------------------------
+- Are you vaccinated against COVID-19?
+- Are you willing to follow company health protocols?
+- Are you comfortable working in an office environment?
+- Do you have any health concerns about returning to office?
+- Are you willing to undergo regular health screenings if required?
+
+## 41. DOCUMENT UPLOADS
+--------------------------------------------------------------------------------
+- Please upload your resume/CV (PDF, DOC, DOCX)
+- Please upload your cover letter
+- Please upload your portfolio
+- Please upload your transcripts
+- Please upload your certifications
+- Please upload your work samples
+- Please upload your reference letters
+- Please upload your ID/passport (for verification)
+- Please upload your work authorization documents
+
+## 42. ADDITIONAL INFORMATION
+--------------------------------------------------------------------------------
+- Is there anything else you would like us to know?
+- Do you have any questions for us?
+- Please provide any additional comments.
+- Is there anything that would prevent you from performing this job?
+- Do you have any scheduling conflicts we should know about?
+- What makes you the best candidate for this role?
+- What unique value would you bring to our team?
+
+## 43. DATA PRIVACY & CONSENT
+--------------------------------------------------------------------------------
+- Do you consent to the collection and processing of your personal data?
+- Do you agree to our privacy policy?
+- Do you consent to background verification?
+- Do you consent to reference checks?
+- Do you consent to your data being stored in our ATS?
+- Do you consent to receiving communication about other opportunities?
+
+## 44. WORKDAY/ATS SPECIFIC QUESTIONS
+--------------------------------------------------------------------------------
+- Are you a current employee of Sysco or its family of companies?
+- If you are a current associate, please submit through internal careers.
+- Have you previously applied to this position?
+- Please create an account or sign in to continue.
+- Please verify your email address.
+- Please complete your candidate profile.
+
+## 45. DROPDOWN/MULTIPLE CHOICE COMMON OPTIONS
+--------------------------------------------------------------------------------
+Employment Type Options:
+- Full-time / Part-time / Contract / Temporary / Internship / Freelance
+
+Experience Level Options:
+- Entry Level / Associate / Mid-Level / Senior / Lead / Manager / Director / Executive
+
+Education Level Options:
+- High School / Associate's / Bachelor's / Master's / PhD / Professional Degree
+
+Work Authorization Options:
+- US Citizen / Green Card Holder / H1B Visa / L1 Visa / OPT/CPT / TN Visa / Other
+
+Notice Period Options:
+- Immediate / 1 Week / 2 Weeks / 30 Days / 60 Days / 90 Days / Currently Serving Notice
+
+Salary Frequency Options:
+- Hourly / Daily / Weekly / Bi-Weekly / Monthly / Annual
+
+How Did You Hear About Us Options:
+- LinkedIn / Indeed / Glassdoor / Company Website / Referral / Job Fair / Recruiter / Other
+
+## 46. YES/NO QUESTIONS COMPILATION
+--------------------------------------------------------------------------------
+Work Authorization:
+- Are you authorized to work in the United States? (Yes/No)
+- Will you require sponsorship? (Yes/No)
+- Are you 18 years or older? (Yes/No)
+- Are you a current employee? (Yes/No)
+
+Availability:
+- Are you available to start immediately? (Yes/No)
+- Are you willing to relocate? (Yes/No)
+- Are you willing to travel? (Yes/No)
+- Are you open to remote work? (Yes/No)
+
+Background:
+- Can you pass a background check? (Yes/No)
+- Do you have a valid driver's license? (Yes/No)
+- Have you been convicted of a felony? (Yes/No)
+- Are you willing to undergo drug testing? (Yes/No)
+
+## 47. NUMERIC INPUT QUESTIONS
+--------------------------------------------------------------------------------
+- Years of experience: [Number]
+- Expected salary (no symbols): [Number]
+- Current salary (no symbols): [Number]
+- Notice period in days: [Number]
+- Number of people managed: [Number]
+- GPA: [Number]
+- Graduation year: [Number]
+- Age: [Number]
+
+## 48. DATE INPUT QUESTIONS
+--------------------------------------------------------------------------------
+- What is your available start date?
+- When did you graduate?
+- When does your visa expire?
+- What is your date of birth?
+- When did you start your current role?
+- When did you leave your last role?
+
+## 49. TEXT AREA / LONG ANSWER QUESTIONS
+--------------------------------------------------------------------------------
+- Tell us about yourself.
+- Why are you interested in this position?
+- Why do you want to work for our company?
+- Describe your relevant experience.
+- What are your career goals?
+- Describe a challenging project you completed.
+- What is your greatest professional achievement?
+- How would you contribute to our team?
+- Describe your ideal work environment.
+- What motivates you?
+- What are your salary expectations and why?
+- Do you have any questions for us?
+
+## 50. CHECKBOX/MULTI-SELECT QUESTIONS
+--------------------------------------------------------------------------------
+- Select all technologies you are proficient in:
+  [ ] Python [ ] Java [ ] JavaScript [ ] C++ [ ] Go [ ] Ruby [ ] C# [ ] TypeScript
+
+- Select all cloud platforms you have experience with:
+  [ ] AWS [ ] Azure [ ] GCP [ ] Oracle Cloud [ ] IBM Cloud
+
+- Select all databases you have worked with:
+  [ ] PostgreSQL [ ] MySQL [ ] MongoDB [ ] Redis [ ] Elasticsearch [ ] SQL Server
+
+- Select your preferred work arrangements:
+  [ ] Remote [ ] Hybrid [ ] Onsite
+
+- Select days you are available to work:
+  [ ] Monday [ ] Tuesday [ ] Wednesday [ ] Thursday [ ] Friday [ ] Saturday [ ] Sunday
+
+
+
+================================================================================
+                         SAMPLE ANSWERS FOR MONIKA KHASDEV
+================================================================================
+
+PERSONAL INFO:
+- Full Name: Monika Khasdev
+- First Name: Monika
+- Last Name: Khasdev
+- Email: monikakhasdev74@gmail.com
+- Phone: +91 9935949635 or 9935949635
+- LinkedIn: https://www.linkedin.com/in/monika-khasdev-0513a4393/
+- Address: 123 Main Street
+- City: Bhopal
+- State: Madhya Pradesh
+- Postal Code: 462001
+- Country: India
+
+WORK AUTHORIZATION (FOR US JOBS):
+- Authorized to work in US: No (requires sponsorship)
+- Require sponsorship: Yes
+- Current visa status: Would need H1B sponsorship
+
+WORK AUTHORIZATION (FOR INDIA JOBS):
+- Authorized to work in India: Yes
+- Require sponsorship: No
+
+EXPERIENCE:
+- Years of experience: 5+ years (2017-Present)
+- Current title: Senior Full Stack Developer
+- Current employer: BridgeFix Technology
+- Employment status: Currently Employed
+- Notice period: 30 days
+
+EDUCATION:
+- Highest degree: Bachelor of Engineering
+- Major: Engineering
+- University: RGPV University
+- Graduation year: 2015
+
+SKILLS:
+- Programming: Python, Java, JavaScript, TypeScript, C++, C#
+- Frameworks: Django, Flask, FastAPI, React, Angular, Vue.js
+- Databases: PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch
+- Cloud: AWS, Docker, Kubernetes, Terraform
+- Tools: Git, CI/CD, Jira, Confluence
+
+SALARY:
+- Expected salary (USD): 85000-120000
+- Expected salary (INR): 1500000-2500000
+- Salary format (no symbols): 100000
+
+AVAILABILITY:
+- Available to start: 30 days notice
+- Willing to relocate: Yes
+- Willing to travel: Yes (up to 25%)
+- Preferred work: Remote or Hybrid
+
+OTHER:
+- 18+ years old: Yes
+- Background check: Yes, can pass
+- Current employee: No
+- How heard about job: LinkedIn
+
