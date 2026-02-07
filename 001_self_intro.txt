@@ -1,0 +1,75 @@
+Hello, my name is Pankaj Chouhan. I’m from Ujjain, Madhya Pradesh, and I have 2+ years of experience as a backend developer.
+
+Over the past two years, I have improved my skills in developing backend system. I specialize in Python, Django, Django REST Framework, Flask, and FastAPI. On the frontend side, I have worked with HTML, CSS, JavaScript, jQuery, and Bootstrap. In terms of databases, I have worked with PostgreSQL, MySQL, and SQLite. My experience includes writing queries, handling migrations, indexing, and basic optimization in PostgreSQL and MySQL, while using SQLite mainly for development and small applications.
+
+In terms of cloud technologies, I have experience with AWS and have worked with services such as EC2, RDS, and S3.
+I also have hands-on experience with DevOps and deployment processes, including Docker and CI/CD pipelines, which I have used for automated testing and deployment. Additionally, I am comfortable using Git, GitHub, and GitLab for version control. I also have practical experience with background task automation using Celery and Redis. 
+
+Currently, I am working as a Python Developer at Bridgefix Technologies, Indore, with 1.5+ year of hands-on experience. My role involves building backend systems and APIs using Django, DRF, and FastAPI, and working with tools such as Docker, PostgreSQL, Celery, and Redis. 
+
+Previously/Prior to this, I worked at ITGeeks Technologies in Dewas as a PHP Trainee, where I gained hands-on experience in PHP, Laravel, and Shopify. During this time, I contributed to developing an e-commerce platform, optimizing performance, and integrating third-party APIs.
+
+Regarding projects/If I talk about my projects, I have worked on multiple projects, including Project 1, Project 2, and Project 3.
+Apart from my technical skills, I am a quick learner with strong problem-solving and logical thinking abilities.
+
+That’s all from my side. Thank you.
+
+
+======================================================================================================================================
+
+---
+Education (mention only if interviewer asks):
+I completed my Bachelor of Technology in Electronics and Communication from Mahakal Institute of Technology, Ujjain.
+2023
+---
+Family (mention only if interviewer asks):
+About my family we are member including me — my parents, an elder brother, and a younger sister.
+---
+
+---
+When interviewer asks about projects:
+If I talk about my projects, I have worked on multiple projects—Thirdi, Orchid, and Procuremate.
+
+---
+When interviewer asks about framework / tech experience:
+
+if i talk about my Django works that include:
+• Authentication system (login, signup, session-based auth)
+• JWT (JSON Web Token) authentication
+• Middleware (custom middleware for auth, logging, request/response handling)
+• Django REST Framework (DRF): serializers, viewsets, permissions, throttling
+• Migrations, models, ORM, admin panel
+• Signals, Celery for background tasks, Redis for caching
+
+if i talk about my Flask works that include:
+• REST APIs with Flask-RESTful or blueprints
+• JWT authentication (e.g. Flask-JWT-Extended)
+• Middleware-style logic (before_request, after_request)
+• Extensions: SQLAlchemy, Marshmallow, CORS
+• Blueprints for modular structure
+
+if i talk about my FastAPI works that include:
+• REST/async APIs with Pydantic models
+• Dependency injection (e.g. for auth, DB session)
+• JWT/OAuth2 authentication
+• OpenAPI (Swagger) docs auto-generated
+• Background tasks, WebSockets if needed
+
+==================================================================================================================================
+
+if i talk about my roles and Responsibilities that includes:
+
+• Build and maintain backend systems using Python, Django, Django REST Framework, and FastAPI
+• Design and develop REST APIs for web and mobile applications
+• Work with databases like PostgreSQL and MySQL for data storage and queries
+• Write efficient SQL queries and handle database migrations
+• Use Celery and Redis for background tasks and scheduled jobs
+• Create and manage Docker containers for development and deployment
+• Deploy applications on AWS (EC2, RDS, S3)
+• Set up and maintain CI/CD pipelines for automatic testing and deployment
+• Use Git, GitHub, and GitLab for version control and team collaboration
+• Fix bugs, improve performance, and optimize backend code
+• Work closely with frontend developers to integrate APIs
+• Follow clean code practices and project guidelines
+
+==================================================================================================================================

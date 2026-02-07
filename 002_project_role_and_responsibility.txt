@@ -1,0 +1,53 @@
+1. Project: Thirdi-AI (Advertising Analytics Platform)
+
+What it does:
+This platform collects campaign data from multiple ad networks like Facebook, Google, TikTok, and LinkedIn. It combines key metrics such as impressions, cost, clicks, and conversions into a single format so the marketing team can easily monitor performance across multiple platforms in a single dashboard.
+
+Technologies used:
+In this project, I used Django and Django REST Framework to develop backend APIs, Celery with Redis to schedule background sync jobs, and integrated Marketing APIs for Facebook, Google, TikTok, and LinkedIn.
+
+My Responsibilities:
+In this project, my responsibilities were:
+Developing backend APIs using Django & DRF.
+Integrating multiple ad network APIs for automated campaign data collection.
+Implementing Celery & Redis for background task scheduling.
+
+2. Project: DHL (Logistics Automation Platform)
+What it does:
+This platform automated DHL’s core logistics processes such as shipment tracking, workflow management, and role-based access control. It allowed internal teams and third-party systems to exchange data securely through REST APIs, reduced manual effort, improved shipment visibility, and provided faster and more reliable logistics operations.
+Technologies used:
+In this project, I used Django and Django REST Framework to build backend APIs, Celery with Redis for background task automation, Docker for containerization and secure permission handling, and PostgreSQL for data storage and reporting.
+My Responsibilities:
+In this project, my responsibilities were:
+Developing REST APIs using Django & DRF for shipment tracking, status updates, and user role management.
+Using Celery with Redis to automate background tasks such as real-time shipment alerts and route recalculations.
+Designing PostgreSQL schemas for storing shipment logs, user activity, and tracking history.
+Writing aggregation logic to generate performance and operational reports for the logistics team.
+—-------------------------------------
+3. Project: ProcureMate (AI-based Tender Management Platform)
+What it does:
+ProcureMate is an AI-based tender management platform built for petroleum companies like Bharat Petroleum and Indian Oil. The platform allows vendors to apply for tenders based on eligibility criteria such as asset availability, financial strength, and past experience. It also automates tender listing, bid submission, and compliance document handling — making the bidding process more transparent and efficient.
+Yha par multiple tenders niklte h or multiple bidders apn apn bid lagate h then yeh data ai ke pass jata h 
+Yha per ai step in hota h or tin steps me processing hoti h bid filter karne ke liye uske bad last step me hume select bid ki list milti or usko tender mil jata hai.
+Technologies used:
+In this project, I used FastAPI to build backend APIs, AWS RDS to design and manage the database, AWS S3 to store and retrieve large compliance documents, and AWS EC2 with CI/CD pipelines for deployment and automated updates. AI models (developed by other team members) were integrated to evaluate bids automatically.
+My Responsibilities:
+In this project, my responsibilities were:
+Developing  backend APIs using FastAPI for vendor registration, tender listings, and bid submissions.
+Designing and managing the relational database schema on AWS RDS.
+Implementing AWS S3 for secure storage and access of large compliance documents.
+Deploying the application on AWS EC2 and setting up CI/CD pipelines for automated deployment.
+Collaborating with the AI team to integrate AI-based bid evaluation into the platform.
+
+
+
+
+4. School Management System
+
+Technologies Used: Django, HTML, CSS
+Developed a comprehensive school management system with features for managing student and staff records and performance monitoring. Integrated user authentication and an intuitive interface for ease of use.
+
+5. Web-Poetry
+
+Technologies Used: Django, HTML, CSS
+Developed a personal blog website for sharing poetry, integrating user authentication, submission, and commenting features.

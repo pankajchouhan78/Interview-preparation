@@ -1,0 +1,41 @@
+Bond Break Related Questions with Answers
+1. Did you sign a bond with your current company?
+
+ "Yes, I did sign a bond. After completing around 1 year, I've decided to look for better career growth, skill growth, and financial growth. It was a tough but well-thought-out decision."
+
+2. Why are you breaking the bond?
+
+ "I’m breaking the bond because I’m looking for better career growth, skill growth, and financial growth. I want to work on more challenging backend projects using Python, Django, and REST APIs so that my technical skills keep improving. I’m also looking for a role where my contribution and skills are reflected in my compensation. After completing around 1 year, I’ve decided to move to an opportunity that aligns better with my long-term goals."
+
+3. Will you get an experience letter?
+ "No, I may not get an experience letter due to the bond. However, I have proper salary slips and account statements as proof of employment."
+I had to break the bond, so I don’t have an experience letter. But I have my salary slips and bank statements as proof of my job. If you want to verify, I can connect you with my seniors from the company.
+
+4. How can you prove your work experience?
+
+ "I can share my salary slips, account statement, and even connect you with my seniors for verification if needed."
+
+5. What did you learn from this experience?
+
+ "I learned the importance of aligning my role with my career and financial goals. It also made me more mature and careful about understanding the role, growth opportunities, and company stability before committing. I'm now focused on finding a long-term fit where I can grow in backend development."
+
+6.
+"How long was the bond you signed?"
+
+ "I had signed a 2-year bond. I have already completed 1 year."
+
+7.
+"If you leave early, how much do you need to pay?"
+
+ "As per the bond terms, the early exit penalty is around ₹50,000. I’m prepared to manage that on my own, as I’m focused on finding the right opportunity for my career growth."
+(Note: Replace ₹50,000 with the actual amount in your bond.)
+
+8.
+"You’re breaking the bond now. What if the same happens again in the future?"
+
+ "No, it won’t. This time I’m more clear and careful about the role and project before joining. I’m only applying to roles where I can grow in backend development and stay long-term. Stability and technical growth are my priorities now."
+
+9.
+"If you knew there was a bond, why are you leaving now?"
+
+ "Yes, I was aware of the bond, and I have worked sincerely and completed around 1 year. After that experience, I’ve thought carefully about my career and financial growth. I’m now looking for a role where I can work on challenging backend projects, keep growing technically, and where my skills and performance are fairly reflected in my compensation. I’m only applying to roles that align with my long-term goals so I can stay and contribute for the long term."
