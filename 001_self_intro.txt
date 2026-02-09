@@ -4,9 +4,11 @@ I specialize in Python, Django, Django REST Framework, Flask, and FastAPI. On th
 
 In terms of databases, I have worked with PostgreSQL, MySQL, and SQLite. 
 
-In terms of cloud technologies, I have experience with AWS and have worked with services such as EC2, RDS, and S3.
+In terms of cloud technologies, I have experience with AWS and its services such as EC2, RDS, and S3.
 
-I also have hands-on experience with DevOps and deployment processes, including Docker and CI/CD pipelines, which I have used for automated testing and deployment. Additionally, I am comfortable using Git, GitHub, and GitLab for version control. I also have practical experience with background task automation using Celery and Redis. 
+I also have hands-on experience with DevOps and deployment processes, including Docker and CI/CD pipelines, which I have used for automated testing and deployment.
+
+Additionally, I have experience with Git, GitHub and GitLab for version control.
 
 Currently, I am working as a Python Developer at Bridgefix Technologies, Indore, with 1.5+ year of hands-on experience. My role involves developing backend systems and APIs using Django, DRF, and FastAPI, and working with tools such as Docker, PostgreSQL, Celery, and Redis. 
 
