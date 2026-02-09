@@ -19,14 +19,24 @@ Developing REST APIs using Django & DRF for shipment tracking, status updates, a
 Using Celery with Redis to automate background tasks such as real-time shipment alerts and route recalculations.
 Designing PostgreSQL schemas for storing shipment logs, user activity, and tracking history.
 Writing aggregation logic to generate performance and operational reports for the logistics team.
+
 —-------------------------------------
+
 2. Project: ProcureMate (AI-based Tender Management Platform)
 What it does:
-ProcureMate is an AI-based tender management platform built for petroleum companies like Bharat Petroleum and Indian Oil. The platform allows vendors to apply for tenders based on eligibility criteria such as asset availability, financial strength, and past experience. It also automates tender listing, bid submission, and compliance document handling — making the bidding process more transparent and efficient.
-Yha par multiple tenders niklte h or multiple bidders apn apn bid lagate h then yeh data ai ke pass jata h 
-Yha per ai step in hota h or tin steps me processing hoti h bid filter karne ke liye uske bad last step me hume select bid ki list milti or usko tender mil jata hai.
+ProcureMate is an AI-based tender management platform built for petroleum companies like Bharat Petroleum and Indian Oil. 
+
+The platform allows multiple vendors to apply for multiple tenders by submitting their bids and required documents. such as asset availability, financial strength, and past experience. 
+
+All bid data is processed by an AI system that evaluates bids in three steps, such as eligibility checks, financial and technical comparison, and final shortlisting.
+
+It also automates tender listing, bid submission, and compliance document handling.This helps in selecting the most suitable vendor and makes the tender process faster, transparent, and efficient.
+
+
 Technologies used:
 In this project, I used FastAPI to build backend APIs, AWS RDS to design and manage the database, AWS S3 to store and retrieve large compliance documents, and AWS EC2 with CI/CD pipelines for deployment and automated updates. AI models (developed by other team members) were integrated to evaluate bids automatically.
+
+
 My Responsibilities:
 In this project, my responsibilities were:
 Developing  backend APIs using FastAPI for vendor registration, tender listings, and bid submissions.
@@ -35,3 +45,5 @@ Implementing AWS S3 for secure storage and access of large compliance documents.
 Deploying the application on AWS EC2 and setting up CI/CD pipelines for automated deployment.
 Collaborating with the AI team to integrate AI-based bid evaluation into the platform.
 
+Yha par multiple tenders niklte h or multiple bidders apn apn bid lagate h then yeh data ai ke pass jata h 
+Yha per ai step in hota h or tin steps me processing hoti h bid filter karne ke liye uske bad last step me hume select bid ki list milti or usko tender mil jata hai.
