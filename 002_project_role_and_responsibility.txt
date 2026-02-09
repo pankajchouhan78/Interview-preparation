@@ -12,10 +12,6 @@ Developing backend APIs using Django & DRF.
 Integrating multiple ad network APIs for automated campaign data collection.
 Implementing Celery & Redis for background task scheduling.
 
-2. Project: DHL (Logistics Automation Platform)
-What it does:
-This platform automated DHL’s core logistics processes such as shipment tracking, workflow management, and role-based access control. It allowed internal teams and third-party systems to exchange data securely through REST APIs, reduced manual effort, improved shipment visibility, and provided faster and more reliable logistics operations.
-Technologies used:
 In this project, I used Django and Django REST Framework to build backend APIs, Celery with Redis for background task automation, Docker for containerization and secure permission handling, and PostgreSQL for data storage and reporting.
 My Responsibilities:
 In this project, my responsibilities were:
@@ -24,7 +20,7 @@ Using Celery with Redis to automate background tasks such as real-time shipment 
 Designing PostgreSQL schemas for storing shipment logs, user activity, and tracking history.
 Writing aggregation logic to generate performance and operational reports for the logistics team.
 —-------------------------------------
-3. Project: ProcureMate (AI-based Tender Management Platform)
+2. Project: ProcureMate (AI-based Tender Management Platform)
 What it does:
 ProcureMate is an AI-based tender management platform built for petroleum companies like Bharat Petroleum and Indian Oil. The platform allows vendors to apply for tenders based on eligibility criteria such as asset availability, financial strength, and past experience. It also automates tender listing, bid submission, and compliance document handling — making the bidding process more transparent and efficient.
 Yha par multiple tenders niklte h or multiple bidders apn apn bid lagate h then yeh data ai ke pass jata h 
@@ -39,15 +35,3 @@ Implementing AWS S3 for secure storage and access of large compliance documents.
 Deploying the application on AWS EC2 and setting up CI/CD pipelines for automated deployment.
 Collaborating with the AI team to integrate AI-based bid evaluation into the platform.
 
-
-
-
-4. School Management System
-
-Technologies Used: Django, HTML, CSS
-Developed a comprehensive school management system with features for managing student and staff records and performance monitoring. Integrated user authentication and an intuitive interface for ease of use.
-
-5. Web-Poetry
-
-Technologies Used: Django, HTML, CSS
-Developed a personal blog website for sharing poetry, integrating user authentication, submission, and commenting features.
