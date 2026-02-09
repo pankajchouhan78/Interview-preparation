@@ -8,9 +8,9 @@ In this project, I used Django and Django REST Framework to develop backend APIs
 
 My Responsibilities:
 In this project, my responsibilities were:
-Developing backend APIs using Django & DRF.
-Integrating multiple ad network APIs for automated campaign data collection.
-Implementing Celery & Redis for background task scheduling.
+1. Developing backend APIs using Django & DRF.
+2. Integrating multiple ad network APIs for automated campaign data collection.
+3. Implementing Celery & Redis for background task scheduling.
 
 In this project, I used Django and Django REST Framework to build backend APIs, Celery with Redis for background task automation, Docker for containerization and secure permission handling, and PostgreSQL for data storage and reporting.
 My Responsibilities:
@@ -33,17 +33,13 @@ All bid data is processed by an AI system that evaluates bids in three steps, su
 It also automates tender listing, bid submission, and compliance document handling.This helps in selecting the most suitable vendor and makes the tender process faster, transparent, and efficient.
 
 
-Technologies used:
-In this project, I used FastAPI to build backend APIs, AWS RDS to design and manage the database, AWS S3 to store and retrieve large compliance documents, and AWS EC2 with CI/CD pipelines for deployment and automated updates. AI models (developed by other team members) were integrated to evaluate bids automatically.
-
-
 My Responsibilities:
 In this project, my responsibilities were:
-Developing  backend APIs using FastAPI for vendor registration, tender listings, and bid submissions.
-Designing and managing the relational database schema on AWS RDS.
-Implementing AWS S3 for secure storage and access of large compliance documents.
-Deploying the application on AWS EC2 and setting up CI/CD pipelines for automated deployment.
-Collaborating with the AI team to integrate AI-based bid evaluation into the platform.
+1. Developing  backend APIs using FastAPI for vendor registration, tender listings, and bid submissions.
+2. Designing and managing the relational database schema on AWS RDS.
+3. Implementing AWS S3 for secure storage and access of large compliance documents.
+4. Deploying the application on AWS EC2 and setting up CI/CD pipelines for automated deployment.
+
 
 Yha par multiple tenders niklte h or multiple bidders apn apn bid lagate h then yeh data ai ke pass jata h 
 Yha per ai step in hota h or tin steps me processing hoti h bid filter karne ke liye uske bad last step me hume select bid ki list milti or usko tender mil jata hai.
