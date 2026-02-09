@@ -21,7 +21,7 @@ Regarding projects/If I talk about my projects, I have worked on multiple projec
 That’s all from my side. Thank you.
 
 
-============================================================
+=========================================================
 
 ---
 Education (mention only if interviewer asks):
@@ -30,6 +30,8 @@ I completed my Bachelor of Technology in Electronics and Communication from Maha
 ---
 Family (mention only if interviewer asks):
 About my family we are member including me — my parents, an elder brother, and a younger sister.
+
+My father works as a boiler operator at AVI Ager Pvt. Ltd. My mother is a house wife. My brother works in the factory. My sister is pursuing a B.Sc. degree.
 ---
 
 ---
@@ -65,7 +67,7 @@ if I talk about my database works that includes:
 writing queries, handling migrations, indexing, and basic optimization in PostgreSQL and MySQL, while using SQLite mainly for development and small applications.
 
 
-============================================================
+=========================================================
 
 if i talk about my roles and Responsibilities that includes:
 
@@ -82,4 +84,4 @@ if i talk about my roles and Responsibilities that includes:
 • Work closely with frontend developers to integrate APIs
 • Follow clean code practices and project guidelines
 
-==================================================================================================================================
+=========================================================
