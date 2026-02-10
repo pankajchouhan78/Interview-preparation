@@ -1,7 +1,15 @@
 1. Project: Thirdi-AI (Advertising Analytics Platform)
 
-What it does:
-This platform collects campaign data from multiple ad networks like Facebook, Google, TikTok, and LinkedIn. It combines key metrics such as impressions, cost, clicks, and conversions into a single format so the marketing team can easily monitor performance across multiple platforms in a single dashboard.
+Thirdi is a platform that connects multiple ad networks like Facebook, Google Ads, LinkedIn, TikTok, and Google Analytics into a single dashboard. Instead of checking each platform separately, marketing team can see all their campaign data in one place.
+
+The system automatically pulls campaign data such as impressions, clicks, spend, and conversions from these ad networks. Since every platform provides data in a different format, Thirdi first normalizes the data and converts it into a common structure.
+
+All data is organized by workspace, which represents a company or team. Each workspace can have its own users, ad accounts, and preferred currency. The platform also converts all costs into the workspace’s currency so performance comparisons are accurate.
+
+Using this clean and combined data, Thirdi generates reports and analytics like campaign performance, funnels, and audience breakdowns. It also uses AI to provide recommendations on how to improve ad performance, such as optimizing budgets or improving click-through rates.
+
+In addition, Thirdi sends alerts when something unusual happens, like a sudden increase in spend or a drop in conversions. Overall, Thirdi helps businesses clearly see how their ads are performing, take quicker actions, and spend their ad budget more effectively.
+
 
 Technologies used:
 In this project, I used Django and Django REST Framework to develop backend APIs, Celery with Redis to schedule background sync jobs, and integrated Marketing APIs for Facebook, Google, TikTok, and LinkedIn.
