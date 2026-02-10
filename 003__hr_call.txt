@@ -61,35 +61,47 @@ Behavioral Questions:
 
 1. Why are you looking for a job change?
 
- "I’m looking for a change mainly for better career growth, skill growth, and financial growth. I want to work on more challenging backend projects using Python, Django, and REST APIs so that my technical skills keep improving and I can add more value. I’m also looking for a role where my contribution and skills are reflected in my compensation, so I can grow both professionally and financially."
+I’m looking for a change mainly for better career growth, skill growth, and financial growth. I want to work on more challenging backend projects using Python, Django, and REST APIs so that my technical skills keep improving and I can add more value. I’m also looking for a role where my contribution and skills are reflected in my compensation, so I can grow both professionally and financially.
+
 
 2. What are you expecting from your next job?
 
- "I’m expecting a role where I can work on real backend development using Python, Django/Flask/FastAPI, and contribute to technical projects. I also want to keep learning new technologies, grow in a stable and supportive environment, and see my skills and performance reflected in my compensation."
+I’m expecting a role where I can work on real backend development using Python, Django/Flask/FastAPI, and contribute to technical projects. I also want to keep learning new technologies, grow in a stable and supportive environment, and see my skills and performance reflected in my compensation.
+
+
 3. Why do you want to leave your current company?
 
- "I’m grateful for the experience I’ve gained at my current company. I’m now looking for better career growth and financial growth, and a role where I can take on more challenging backend work, learn new technologies, and grow towards a senior developer role. That’s why I’m exploring opportunities that align with my goals."
+I’m grateful for the experience I’ve gained at my current company. I’m now looking for better career growth and financial growth, and a role where I can take on more challenging backend work, learn new technologies, and grow towards a senior developer role. That’s why I’m exploring opportunities that align with my goals.
+
 
 4. What did you like/dislike about your current job?
 
- "I liked the team and work culture, and I also got hands-on experience with Python and web development. I’m now looking for a role with more scope for technical growth, challenging backend projects, and better alignment with my long-term career and financial goals."
+I liked the team and work culture, and I also got hands-on experience with Python and web development. I’m now looking for a role with more scope for technical growth, challenging backend projects, and better alignment with my long-term career and financial goals.
+
 
 5. What is your current CTC and expected CTC?
 
- My current salary is ₹22,000. Based on my experience, skills and upcoming increment, I’m expecting ₹35,000 to ₹40,000 per month (Forty Thousand Rupees)
-My current CTC is ₹2.64 LPA Based on my experience, skills, and upcoming increment, I’m expecting a CTC in the range of ₹4.2 to ₹5 lakhs per annum
-My current CTC is ₹2.64 LPA And I’m looking for a CTC between ₹4 to ₹5 LPA. based on my skills and contributions.
+1. My current salary is ₹25,000. Based on my experience, skills and upcoming increment, I’m expecting ₹45,000 to ₹50,000 per month (Fifty Thousand Rupees).
+
+2. My current CTC is 3 LPA Based on my experience, skills. I’m expecting a CTC of 5 lakhs per annum.
+
+3. My current CTC is ₹3 LPA And I’m looking for a CTC between ₹5 to ₹6 LPA. based on my skills and contributions.
 LPA-lakhs per annum
+
 
 6. How soon can you join us?
 
- "I can join immediately, as I’m ready to make the move after breaking the bond."
-"I can join within 15 days. I just need a short time to complete some formalities and ensure a smooth transition."
-"I’m ready to make the move after breaking the bond. I would need around 7 to 15 days to complete the basic formalities and prepare for the transition. I can assure you that I’m fully committed and can join within that time frame."
+1. I can join immediately, as I’m ready to make the move after breaking the bond.
+
+2. I can join within 15 days. I just need a short time to complete some formalities and ensure a smooth transition.
+
+3. I’m ready to make the move after breaking the bond. I would need around 7 to 15 days to complete the basic formalities and prepare for the transition. I can assure you that I’m fully committed and can join within that time frame.
+
 
 7. What are your strengths?
 
  "My strength is my ability to learn quickly and take ownership of my work. I’m good at writing clean, efficient Python code and solving backend problems."
+
 
 8. What is your weakness?
 
