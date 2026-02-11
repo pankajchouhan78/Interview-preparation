@@ -4,7 +4,7 @@ Thirdi is a platform that connects multiple ad networks like Facebook, Google Ad
 
 The system automatically pulls campaign data such as impressions, clicks, spend, and conversions from these ad networks. Since every platform provides data in a different format, Thirdi first normalizes the data and converts it into a common structure.
 
-All data is organized by workspace, which represents a company or team. Each workspace can have its own users, ad accounts, and preferred currency. The platform also converts all costs into the workspace’s currency so performance comparisons are accurate.
+All data is organized by workspace, which represents a company or team. Each workspace can have its own users, ad accounts, and preferred currency. The platform also converts all costs into the workspace’s currency. 
 
 Using this clean and combined data, Thirdi generates reports and analytics like campaign performance, funnels, and audience breakdowns. It also uses AI to provide recommendations on how to improve ad performance, such as optimizing budgets or improving click-through rates.
 
