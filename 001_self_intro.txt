@@ -68,7 +68,7 @@ writing queries, handling migrations, indexing, and basic optimization in Postgr
 if i talk about my roles and Responsibilities that includes:
 
 1. I mainly work on building and maintaining backend systems using Python.
-2. Use Django, Django REST Framework, and FastAPI to create APIs that are used by web and mobile applications.
+2. Use Django, Django REST Framework, and FastAPI to create APIs that can be used in web and mobile applications.
 3. Work with databases like PostgreSQL and MySQL, where I write SQL queries, manage data, and handle database migrations.
 4. For background tasks like sending emails or running scheduled jobs, I use Celery and Redis.
 5. I also use Docker to create containers so the application runs the same in development and production.
