@@ -6,7 +6,7 @@ The system automatically pulls campaign data such as impressions, clicks, spend,
 
 All data is organized by workspace, which represents a company or team. Each workspace can have its own users, ad accounts, and preferred currency. The platform also converts all costs into the workspace’s currency. 
 
-Using this clean and combined data, Thirdi generates reports and analytics like campaign performance, funnels, and audience breakdowns. It also uses AI to provide recommendations on how to improve ad performance, such as optimizing budgets or improving click-through rates.
+Using this clean and combined data, Thirdi generates reports and analytics like campaign performance, funnels, and audience breakdowns. It also uses AI to provide recommendations on how to improve ad performance, such as optimizing budgets or improving click.
 
 In addition, Thirdi sends alerts when something unusual happens, like a sudden increase in spend or a drop in conversions. Overall, Thirdi helps businesses clearly see how their ads are performing, take quicker actions, and spend their ad budget more effectively.
 
