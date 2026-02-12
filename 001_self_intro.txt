@@ -1,4 +1,4 @@
-Hello, my name is Pankaj Chouhan. I’m from Ujjain, Madhya Pradesh, and I have 2+ years of experience as a backend developer.
+kiHello, my name is Pankaj Chouhan. I’m from Ujjain, Madhya Pradesh, and I have 2+ years of experience as a backend developer.
 
 I specialize in Python, Django, Django REST Framework, Flask, and FastAPI. On the frontend side, I have worked with HTML, CSS, JavaScript, jQuery, and Bootstrap. 
 
@@ -72,7 +72,7 @@ if i talk about my roles and Responsibilities that includes:
 3. Work with databases like PostgreSQL and MySQL, where I write SQL queries, manage data, and handle database migrations.
 4. For background tasks automation or running scheduled jobs, I use Celery and Redis.
 5. I also use Docker to create containers so the application runs the same in development and production.
-6. For deployment, I have experience with AWS and it's services such as EC2, RDS, and S3. I also Set up and maintain CI/CD pipelines for automatic testing and deployment.
+6. For deployment, I have experience with AWS and it's services such as EC2, RDS, and S3. I also Set up and maintain CI/ CD pipelines for automatic testing and deployment.
 7.Use Git and GitHub/ GitLab for version control and team collaboration.
 8. Apart from development, I fix bugs, improve performance, and work closely with frontend developers to integrate APIs.
 9. I always try to follow clean code practices and project guidelines.
