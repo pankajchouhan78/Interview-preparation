@@ -70,7 +70,7 @@ if i talk about my roles and Responsibilities that includes:
 1. I mainly work on building and maintaining backend systems using Python.
 2. Use Django, Django REST Framework, and FastAPI to create APIs that can be used in web and mobile applications.
 3. Work with databases like PostgreSQL and MySQL, where I write SQL queries, manage data, and handle database migrations.
-4. For background tasks like sending emails or running scheduled jobs, I use Celery and Redis.
+4. For background tasks automation or running scheduled jobs, I use Celery and Redis.
 5. I also use Docker to create containers so the application runs the same in development and production.
 6. For deployment, I have experience with AWS and it's services such as EC2, RDS, and S3. Set up and maintain CI/CD pipelines for automatic testing and deployment.
 7.Use Git and GitHub/ GitLab for version control and team collaboration.
