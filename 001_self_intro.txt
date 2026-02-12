@@ -73,7 +73,7 @@ if i talk about my roles and Responsibilities that includes:
 4. For background tasks like sending emails or running scheduled jobs, I use Celery and Redis.
 5. I also use Docker to create containers so the application runs the same in development and production.
 6. For deployment, I have experience with AWS and it's services such as EC2, RDS, and S3. Set up and maintain CI/CD pipelines for automatic testing and deployment.
-7.Use Git and GitHub/GitLab for version control and team collaboration.
+7.Use Git and GitHub/ GitLab for version control and team collaboration.
 8. Apart from development, I fix bugs, improve performance, and work closely with frontend developers to integrate APIs.
 9. I always try to follow clean code practices and project guidelines.
 
