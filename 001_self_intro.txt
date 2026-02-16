@@ -1,4 +1,4 @@
-kiHello, my name is Pankaj Chouhan. I’m from Ujjain, Madhya Pradesh, and I have 2+ years of experience as a backend developer.
+Hello, my name is Pankaj Chouhan. I’m from Ujjain, Madhya Pradesh, and I have 2+ years of experience as a backend developer.
 
 I specialize in Python, Django, Django REST Framework, Flask, and FastAPI. On the frontend side, I have worked with HTML, CSS, JavaScript, jQuery, and Bootstrap. 
 
