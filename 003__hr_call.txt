@@ -13,6 +13,38 @@ I enjoy working with data, designing systems, and solving complex problems that 
 5. Where do you see yourself in 5 years?
 In five years, I see myself as a senior developer. I want to take more responsibility, guide junior developers, and work on more complex backend projects. I also want to keep learning new technologies and improve my skills so I can add more value to the company.
 
+6. Why are you looking for a job change?
+I’m looking for a change mainly for better career growth, skill growth, and financial growth. I want to work on more challenging backend projects using Python, Django, and REST APIs so that my technical skills keep improving and I can add more value. I’m also looking for a role where my contribution and skills are reflected in my compensation, so I can grow both professionally and financially.
+
+7. What are you expecting from your next job?
+I’m expecting a role where I can work on real backend development using Python, Django/Flask/FastAPI. I also want to keep learning new technologies, grow in a stable and supportive environment.
+
+8. Why do you want to leave your current company?
+I’m grateful for the experience I’ve gained at my current company. I’m now looking for better career growth and financial growth, and a role where I can take on more challenging backend work, learn new technologies.
+That’s why I’m exploring opportunities that align with my goals.
+
+9. What did you like/dislike about your current job?
+I liked the team and work culture, and I also got hands-on experience with Python and web development. I’m now looking 
+for better career growth.
+
+10. What is your current CTC and expected CTC?
+1. My current salary is ₹25,000. Based on my experience, skills. I’m expecting ₹45,000 to ₹50,000 per month (Fifty Thousand Rupees).
+2. My current CTC is 3 LPA Based on my experience, skills. I’m expecting a CTC of 6 lakhs per annum.
+3. My current CTC is ₹3 LPA And I’m looking for a CTC between ₹6 to ₹7 LPA. based on my skills and contributions.
+LPA-lakhs per annum
+
+11. How soon can you join us?
+1. I can join immediately, as I’m ready to make the move after breaking the bond.
+2. I can join within 15 days. I just need a short time to complete some formalities and ensure a smooth transition.
+3. I’m ready to make the move after breaking the bond. I would need around 7 to 15 days to complete the basic formalities and prepare for the transition. I can assure you that I’m fully committed and can join within that time frame.
+
+Behavioral Questions:
+1. Tell me about a time when you had a disagreement with a team member. How did you resolve it?
+"In one project, a team member and I disagreed on the architecture of an API. I believed that a more modular approach would be better for future scalability, but they argued for a simpler solution. To resolve the disagreement, we scheduled a meeting to discuss the pros and cons of each approach, and we also reviewed some documentation and best practices. Eventually, we compromised by adopting a modular approach but keeping it simple initially. This allowed us to scale the solution later without significant refactoring."
+
+2. Give an example of when you had to handle multiple tasks or projects. How did you manage your time?
+"When juggling multiple tasks, I prioritize based on deadlines and the impact of each task. I use tools like Jira or Trello to track progress and set clear milestones for each project. I also break down larger tasks into smaller, more manageable pieces to ensure steady progress. If there’s a conflict between projects, I communicate with the team to adjust priorities and deadlines. This method helps me stay organized and ensures that nothing falls through the cracks."
+
 Technical Skills & Experience:
 1. Can you explain your experience with [Python/Django/Flask/other tech stack mentioned]?
 "I have extensive experience working with Python, particularly in backend development using Django and Flask. I’ve used Django for building robust web applications and RESTful APIs with Django Rest Framework. I’m also comfortable working with Flask for smaller projects where simplicity and flexibility are more important. I’ve built multiple APIs, integrated third-party services, and optimized the performance of applications using these frameworks."
@@ -51,39 +83,6 @@ Technical Skills & Experience:
 - To optimize database queries, I first check for slow queries. I add indexes on fields that are frequently searched or filtered. I also make sure queries fetch only the required columns instead of unnecessary data.
 - I use proper joins to combine related tables in a single query instead of running multiple queries. In Django, I use select_related, which works like a SQL join, to reduce extra database calls.
 - For large data sets, I use pagination so we don’t load everything at once. I also use caching to reduce repeated database hits.
-
-1. Why are you looking for a job change?
-I’m looking for a change mainly for better career growth, skill growth, and financial growth. I want to work on more challenging backend projects using Python, Django, and REST APIs so that my technical skills keep improving and I can add more value. I’m also looking for a role where my contribution and skills are reflected in my compensation, so I can grow both professionally and financially.
-
-2. What are you expecting from your next job?
-I’m expecting a role where I can work on real backend development using Python, Django/Flask/FastAPI. I also want to keep learning new technologies, grow in a stable and supportive environment.
-
-3. Why do you want to leave your current company?
-I’m grateful for the experience I’ve gained at my current company. I’m now looking for better career growth and financial growth, and a role where I can take on more challenging backend work, learn new technologies.
-That’s why I’m exploring opportunities that align with my goals.
-
-4. What did you like/dislike about your current job?
-I liked the team and work culture, and I also got hands-on experience with Python and web development. I’m now looking 
-for better career growth.
-
-5. What is your current CTC and expected CTC?
-1. My current salary is ₹25,000. Based on my experience, skills. I’m expecting ₹45,000 to ₹50,000 per month (Fifty Thousand Rupees).
-2. My current CTC is 3 LPA Based on my experience, skills. I’m expecting a CTC of 6 lakhs per annum.
-3. My current CTC is ₹3 LPA And I’m looking for a CTC between ₹6 to ₹7 LPA. based on my skills and contributions.
-LPA-lakhs per annum
-
-6. How soon can you join us?
-1. I can join immediately, as I’m ready to make the move after breaking the bond.
-2. I can join within 15 days. I just need a short time to complete some formalities and ensure a smooth transition.
-3. I’m ready to make the move after breaking the bond. I would need around 7 to 15 days to complete the basic formalities and prepare for the transition. I can assure you that I’m fully committed and can join within that time frame.
-
-Behavioral Questions:
-1. Tell me about a time when you had a disagreement with a team member. How did you resolve it?
-"In one project, a team member and I disagreed on the architecture of an API. I believed that a more modular approach would be better for future scalability, but they argued for a simpler solution. To resolve the disagreement, we scheduled a meeting to discuss the pros and cons of each approach, and we also reviewed some documentation and best practices. Eventually, we compromised by adopting a modular approach but keeping it simple initially. This allowed us to scale the solution later without significant refactoring."
-
-2. Give an example of when you had to handle multiple tasks or projects. How did you manage your time?
-"When juggling multiple tasks, I prioritize based on deadlines and the impact of each task. I use tools like Jira or Trello to track progress and set clear milestones for each project. I also break down larger tasks into smaller, more manageable pieces to ensure steady progress. If there’s a conflict between projects, I communicate with the team to adjust priorities and deadlines. This method helps me stay organized and ensures that nothing falls through the cracks."
-
 
 
 
