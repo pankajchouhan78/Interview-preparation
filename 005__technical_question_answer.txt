@@ -1,0 +1,39 @@
+Technical Skills & Experience:
+1. Can you explain your experience with [Python/Django/Flask/other tech stack mentioned]?
+"I have extensive experience working with Python, particularly in backend development using Django and Flask. I’ve used Django for building robust web applications and RESTful APIs with Django Rest Framework. I’m also comfortable working with Flask for smaller projects where simplicity and flexibility are more important. I’ve built multiple APIs, integrated third-party services, and optimized the performance of applications using these frameworks."
+
+2. Describe a project you’ve worked on where you built a RESTful API.
+"In my current role, I worked on building a RESTful API for a customer management system. I used Django Rest Framework to create the API endpoints for managing customer data, orders, and payments. The project required implementing authentication with JWT tokens and ensuring the API could handle large volumes of requests efficiently. I also added caching to improve response times for frequently accessed data and used versioning to maintain backward compatibility with previous API versions."
+
+3. What is the difference between Django and Flask? When would you choose one over the other?
+- Django is a full web framework that comes with many built-in features like an admin panel, authentication, and database tools. It is good for large or complex projects where you need many features ready to use.
+- Flask is a lightweight framework. It gives more flexibility but does not include many built-in features. You have to add things based on your needs.
+- FastAPI is modern and very fast. It is mainly used for building APIs. It supports async programming and automatic API documentation. It is a good choice when you need high performance and are building REST APIs or microservices.
+- I would choose Django for large projects where I want faster development with ready-made features. I would choose Flask for smaller projects or when I need more control and customization. I would choose FastAPI when building high-performance APIs.
+
+4. How do you ensure the performance of an API?
+"To ensure the performance of an API, I focus on optimizing database queries, using pagination for large data sets, and applying caching for frequently requested resources. I also ensure that the API is designed to handle high traffic by using rate limiting and load balancing techniques. In addition, I profile the API to identify bottlenecks and use tools like Django Debug Toolbar to monitor and improve query performance."
+
+5. What strategies do you use for debugging and troubleshooting in your projects?
+"I typically start by checking error logs to identify any obvious issues. I also use logging in the code to trace specific problems. When debugging, I use tools like Python's pdb debugger and breakpoints to step through the code. If the issue is related to a database, I check the queries and use Django’s query logging to identify inefficient queries. I also rely on unit testing to isolate issues and ensure that changes don’t break existing functionality."
+
+6. Can you explain how you’ve used Git in your workflow?
+- If I talk about my Git workflow, in my daily work I use Git to track code changes and work with my team. I create separate branches for new features or bug fixes. I commit my changes regularly with clear messages so others can understand what I did.
+- Before merging my code into the main branch, I create a pull request so the team can review it. After approval, the code is merged. I also pull the latest changes from the main branch to keep my code updated.
+
+7. What is your experience with Docker and containerization?
+- If I talk about my experience with Docker, I have used it to containerize applications so they run the same in every environment. In my current role, I use Docker to set up development and production environments for backend applications. This helps avoid environment-related issues and makes deployment easier.
+- I have also used Docker Compose to manage multiple containers together, like running the backend application, database, Celery worker, and Redis in separate containers. This makes the setup simple, organized, and consistent for the whole team.
+
+8. How do you ensure the security of web applications?
+"I follow best security practices like validating all user inputs to prevent invalid or harmful data. I implement proper authentication and authorization to make sure only authorized users can access specific resources. I also store passwords in hashed form, never in plain text, to protect user data.
+
+9. What’s your experience with databases like MySQL?
+- If I talk about my database experience, I have worked with MySQL, PostgreSQL, and SQLite in both personal and professional projects. I have designed relational databases and handled migrations.
+- I am comfortable writing SQL queries, including complex ones. I also work on query optimization, indexing, and proper normalization to improve performance. In Django projects, I mostly use Django ORM for database operations, but I can also write raw SQL queries when needed.
+
+10. How do you optimize database queries for better performance?
+- To optimize database queries, I first check for slow queries. I add indexes on fields that are frequently searched or filtered. I also make sure queries fetch only the required columns instead of unnecessary data.
+- I use proper joins to combine related tables in a single query instead of running multiple queries. In Django, I use select_related, which works like a SQL join, to reduce extra database calls.
+- For large data sets, I use pagination so we don’t load everything at once. I also use caching to reduce repeated database hits.
+
