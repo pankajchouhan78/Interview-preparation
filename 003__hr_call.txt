@@ -27,16 +27,43 @@ That’s why I’m exploring opportunities that align with my goals.
 I liked the team and work culture, and I also got hands-on experience with Python and web development. I’m now looking 
 for better career growth.
 
-10. What is your current CTC and expected CTC?
+10. What did you learn from this experience?
+I learned the importance of aligning my role with my career and financial goals. It also made me more mature and careful about understanding the role, growth opportunities, and company stability before committing. I'm now focused on finding a long-term fit where I can grow in backend development.
+
+11. What is your current CTC and expected CTC?
 1. My current salary is ₹25,000. Based on my experience, skills. I’m expecting ₹45,000 to ₹50,000 per month (Fifty Thousand Rupees).
 2. My current CTC is 3 LPA Based on my experience, skills. I’m expecting a CTC of 6 lakhs per annum.
 3. My current CTC is ₹3 LPA And I’m looking for a CTC between ₹6 to ₹7 LPA. based on my skills and contributions.
 LPA-lakhs per annum
 
-11. How soon can you join us?
+12. How soon can you join us?
 1. I can join immediately, as I’m ready to make the move after breaking the bond.
 2. I can join within 15 days. I just need a short time to complete some formalities and ensure a smooth transition.
 3. I’m ready to make the move after breaking the bond. I would need around 7 to 15 days to complete the basic formalities and prepare for the transition. I can assure you that I’m fully committed and can join within that time frame.
+
+
+Bond Break Related Questions with Answers
+1. Did you sign a bond with your current company?
+Yes, I signed a bond with my current company. I have completed more than 1.5 years there, and now I am planning to look for better career growth, skill improvement, and new opportunities.
+
+2. Why are you breaking the bond?
+I’m breaking the bond because I’m looking for better career growth, skill growth, and financial growth. I want to work on more challenging backend projects using Python, Django, and REST APIs so that my technical skills keep improving.  After completing around 1.5+ year, I’ve decided to move to an opportunity that aligns better with my long-term goals."
+
+3. Will you get an experience letter?
+No, I may not get an experience letter due to the bond. However, I have proper salary slips and account statements as proof of employment. If you want to verify, I can connect you with my seniors from the company.
+
+4. How can you prove your work experience?
+I can share my salary slips, account statement, and even connect you with my seniors for verification if needed.
+
+5. How long was the bond you signed?
+I had signed a 2.5-year bond. I have already completed 1.5+ year.
+
+7. If you leave early, how much do you need to pay?
+As per the bond terms, the early exit penalty is around ₹100,000. I’m prepared to manage that on my own, as I’m focused on finding the right opportunity for my career growth.
+
+8. You’re breaking the bond now. What if the same happens again in the future?
+No, it will not happen again. This time I am being more careful before joining any company. I am clearly checking the role, project, and growth opportunities. I am applying only for backend development roles where I can learn, grow, and stay for a long time. Now my main focus is stability and continuous technical growth.
+
 
 Behavioral Questions:
 1. Tell me about a time when you had a disagreement with a team member. How did you resolve it?
