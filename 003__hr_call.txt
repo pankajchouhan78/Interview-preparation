@@ -27,6 +27,8 @@ Technical Skills & Experience:
 2. Describe a project you’ve worked on where you built a RESTful API.
 
 "In my current role, I worked on building a RESTful API for a customer management system. I used Django Rest Framework to create the API endpoints for managing customer data, orders, and payments. The project required implementing authentication with JWT tokens and ensuring the API could handle large volumes of requests efficiently. I also added caching to improve response times for frequently accessed data and used versioning to maintain backward compatibility with previous API versions."
+
+
 3. What is the difference between Django and Flask? When would you choose one over the other?
 
 "Django is a full-fledged web framework that comes with many built-in features, such as an admin panel, authentication, and database management tools. It's great for larger, more complex applications where you need these features out-of-the-box. Flask, on the other hand, is a micro-framework that’s lightweight and more flexible. It's ideal for smaller projects or when you want to have complete control over the components you include in your app. I would choose Django for projects that require rapid development with a lot of built-in features, and Flask for projects that are smaller or require more customization."
@@ -69,26 +71,27 @@ I’m looking for a change mainly for better career growth, skill growth, and fi
 
 2. What are you expecting from your next job?
 
-I’m expecting a role where I can work on real backend development using Python, Django/Flask/FastAPI, and contribute to technical projects. I also want to keep learning new technologies, grow in a stable and supportive environment, and see my skills and performance reflected in my compensation.
+I’m expecting a role where I can work on real backend development using Python, Django/Flask/FastAPI. I also want to keep learning new technologies, grow in a stable and supportive environment.
 
 
 3. Why do you want to leave your current company?
 
-I’m grateful for the experience I’ve gained at my current company. I’m now looking for better career growth and financial growth, and a role where I can take on more challenging backend work, learn new technologies, and grow towards a senior developer role. That’s why I’m exploring opportunities that align with my goals.
+I’m grateful for the experience I’ve gained at my current company. I’m now looking for better career growth and financial growth, and a role where I can take on more challenging backend work, learn new technologies.
+That’s why I’m exploring opportunities that align with my goals.
 
 
 4. What did you like/dislike about your current job?
 
-I liked the team and work culture, and I also got hands-on experience with Python and web development. I’m now looking for a role with more scope for technical growth, challenging backend projects, and better alignment with my long-term career and financial goals.
-
+I liked the team and work culture, and I also got hands-on experience with Python and web development. I’m now looking 
+for better career growth.
 
 5. What is your current CTC and expected CTC?
 
-1. My current salary is ₹25,000. Based on my experience, skills and upcoming increment, I’m expecting ₹45,000 to ₹50,000 per month (Fifty Thousand Rupees).
+1. My current salary is ₹25,000. Based on my experience, skills. I’m expecting ₹45,000 to ₹50,000 per month (Fifty Thousand Rupees).
 
-2. My current CTC is 3 LPA Based on my experience, skills. I’m expecting a CTC of 5 lakhs per annum.
+2. My current CTC is 3 LPA Based on my experience, skills. I’m expecting a CTC of 6 lakhs per annum.
 
-3. My current CTC is ₹3 LPA And I’m looking for a CTC between ₹5 to ₹6 LPA. based on my skills and contributions.
+3. My current CTC is ₹3 LPA And I’m looking for a CTC between ₹6 to ₹7 LPA. based on my skills and contributions.
 LPA-lakhs per annum
 
 
