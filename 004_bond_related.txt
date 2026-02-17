@@ -1,11 +1,9 @@
 Bond Break Related Questions with Answers
 1. Did you sign a bond with your current company?
-
- "Yes, I did sign a bond. After completing around 1 year, I've decided to look for better career growth, skill growth, and financial growth. It was a tough but well-thought-out decision."
+Yes, I signed a bond with my current company. I have completed more than 1.5 years there, and now I am planning to look for better career growth, skill improvement, and new opportunities.
 
 2. Why are you breaking the bond?
-
- "I’m breaking the bond because I’m looking for better career growth, skill growth, and financial growth. I want to work on more challenging backend projects using Python, Django, and REST APIs so that my technical skills keep improving. I’m also looking for a role where my contribution and skills are reflected in my compensation. After completing around 1 year, I’ve decided to move to an opportunity that aligns better with my long-term goals."
+I’m breaking the bond because I’m looking for better career growth, skill growth, and financial growth. I want to work on more challenging backend projects using Python, Django, and REST APIs so that my technical skills keep improving.  After completing around 1.5+ year, I’ve decided to move to an opportunity that aligns better with my long-term goals."
 
 3. Will you get an experience letter?
  "No, I may not get an experience letter due to the bond. However, I have proper salary slips and account statements as proof of employment."
