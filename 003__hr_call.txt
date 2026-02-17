@@ -10,7 +10,7 @@ I like solving problems and working with technology. I was interested in program
 
 
 3. Why did you choose to specialize in backend development?
-I enjoy working with data, designing systems, and solving complex problems that happen behind the scenes. Backend development allows me to focus on solutions that power the functionality of an application. 
+I enjoy working with data, designing systems, and solving complex problems that happen behind the scenes. Backend development allows me to focus on solutions.
 
 4. What is your greatest strength and weakness?
 
