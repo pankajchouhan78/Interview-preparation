@@ -3,12 +3,15 @@ Personal & Background Questions:
 1. Tell us about yourself.
 
 "Hello, my name is Pankaj Chouhan, and I’m from Ujjain. I have two years of experience as a backend developer. I specialize in Python and Django, but I also have experience with Flask, FastAPI, PHP, and Laravel. I’m currently working as a Python Developer at Bridgefix Technologies, where I build and maintain RESTful APIs using Django and Django Rest Framework. I have experience working with databases like MySQL, and I’m also proficient in version control using Git and containerization with Docker. In my free time, I work on personal projects to keep improving my skills and learn new technologies."
+
 2. What motivated you to become a software developer?
+What motivated you to become a software developer?
+I like solving problems and working with technology. I was interested in programming because it is logical and structured. Later, I understood that through software development, we can build useful applications that help people in real life. I enjoy learning new technologies and creating smart and efficient solutions, and that’s why I chose software development as my caree
 
-"I've always enjoyed problem-solving and working with technology. Initially, I was drawn to the logic and structure of programming. Over time, I realized that software development provides a unique opportunity to build tools and systems that can have a real-world impact. My passion for learning new technologies and creating efficient solutions kept me motivated to pursue a career in software development."
+
 3. Why did you choose to specialize in backend development?
+I enjoy working with data, designing systems, and solving complex problems that happen behind the scenes. Backend development allows me to focus on solutions that power the functionality of an application. 
 
-"I enjoy working with data, designing systems, and solving complex problems that happen behind the scenes. Backend development allows me to focus on creating efficient, scalable solutions that power the functionality of an application. I like that backend developers get to work on the architecture, APIs, and databases, and I find it fulfilling to ensure everything runs smoothly on the server-side."
 4. What is your greatest strength and weakness?
 
 "My greatest strength is my attention to detail. I take pride in writing clean, well-documented, and maintainable code. I believe this helps avoid long-term issues and improves the efficiency of the development process. As for my weakness, I tend to be a perfectionist at times, which can slow me down. However, I've learned to balance quality with deadlines and focus on delivering value incrementally.
